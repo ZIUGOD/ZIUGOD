@@ -37,7 +37,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+---
+
 <div align="center">
+    <h3>Visitor counter</h3>
     <img alingn="center" src="https://profile-counter.glitch.me/ZIUGOD/count.svg"/>
 </div>
 
