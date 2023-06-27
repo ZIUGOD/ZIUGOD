@@ -45,4 +45,4 @@
 </div>
 
 <!-- footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=144&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=144&section=footer" />
