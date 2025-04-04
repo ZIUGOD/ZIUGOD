@@ -44,4 +44,4 @@
 </div>
 
 <!-- footer -->
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=144&section=footer" /> </a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=144&section=footer" /></a>
