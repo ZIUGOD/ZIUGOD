@@ -5,7 +5,13 @@
 <!-- Tools and Skills -->
 <div align="center">
 <h3>Tools and Skills</h3>
-<a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a><a href="#" title="HTML5"><img src="https://user-images.githubusercontent.com/84246094/134066180-d11880e0-f92f-47da-9f70-1b5d7c39934b.png" width="60" height="60"/></a><a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/></a><a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/></a><a href="#" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/></a><a href="https://tryhackme.com/p/ZIU" title="TryHackMe"><img src="https://tryhackme-badges.s3.amazonaws.com/ZIU.png" height="60"/></a>
+<a href="#" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a>
+  <a href="#" title="HTML5"><img src="https://user-images.githubusercontent.com/84246094/134066180-d11880e0-f92f-47da-9f70-1b5d7c39934b.png" width="60" height="60"/></a>
+  <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/></a>
+  <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/></a>
+  <a href="#" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/></a>
+  <a href="https://tryhackme.com/p/ZIU" title="TryHackMe"><img src="https://tryhackme-badges.s3.amazonaws.com/ZIU.png" height="60"/></a>
 </div>
 
 ---
