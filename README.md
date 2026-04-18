@@ -16,7 +16,7 @@
 <div align="center">
     <p>
         <a href="https://github.com/ZIUGOD">
-            <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api?username=ZIUGOD&show_icons=true&theme=highcontrast" alt="ZIUGOD stats" />
+            <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api?username=ZIUGOD&show_icons=true&theme=highcontrast" alt="ZIUGOD stats"/>
             <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIUGOD&langs_count=6&theme=highcontrast&layout=compact" alt="ZIUGOD stats" />
         </a>
     </p>
