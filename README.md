@@ -1,27 +1,12 @@
-<!-- greeting --> 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=4000&color=FFD700&center=true&vCenter=true&width=500&height=64&lines=Hey%2C+I'm+ZIUGOD!" alt="Typing SVG" /></a>
-</div>
-
-<!-- Social medias -->
-<div align="center">
-    <a href="https://www.instagram.com/ziu.bat" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:caique.engsoft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/caiqueengsoftware/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
----
-
 <!-- commit stats -->
 <div align="center">
     <p>
         <a href="https://github.com/ZIUGOD">
-            <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api?username=ZIUGOD&show_icons=true&theme=highcontrast" alt="ZIUGOD stats"/>
+            <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api?username=ZIUGOD&show_icons=true&theme=highcontrast" alt="ZIUGOD stats" />
             <img width="400px" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIUGOD&langs_count=6&theme=highcontrast&layout=compact" alt="ZIUGOD stats" />
         </a>
     </p>
 </div>
-
 <!-- Tools and Skills -->
 <div align="center">
     <h3 align="top">Tools and Skills</h3>
